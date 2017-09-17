@@ -1,6 +1,6 @@
 /*
  * Copyright (c) 2015 Barchampas Gerasimos </makindosx@gmail.com>
- * pseudo-atm is a programm which helps to understand atm .
+ * pseudo-atm is a programm which helps to understand atm.
  *
  * pseudo-atm is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as
